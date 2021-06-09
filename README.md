@@ -1,6 +1,3 @@
-# cidenet
-# hasgdgaagh
-
 ## modo de visualización
 
 1- Clonar este repositorio
@@ -11,7 +8,7 @@
 
 4- abrir dos terminales en una ubicarse en "front" y en otra, ubicarse en la raíz del proyecto
 
-5- ejecutar "npm strart" en la raíz del proyecto: "cidenet"
+5- ejecutar "npm strart" en la raíz del proyecto: "plm"
 
 6- ejecutar "npm run dev" en la carpeta "front"
 
